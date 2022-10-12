@@ -6,6 +6,11 @@ import javafx.scene.shape.Polygon;
 import javafx.stage.Stage;
 import java.util.Random;
 
+/*
+CS1131
+Lab Section: L01
+@author Keiffer Button
+ */
 
 public class ExtraProblem4 extends Application {
     public void start(Stage stage) {

@@ -5,6 +5,13 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 import javafx.scene.shape.Ellipse;
+
+/*
+CS1131
+Lab Section: L01
+@author Keiffer Button
+ */
+
 public class ExtraProblem3 extends Application {
     public void start(Stage stage) {
 

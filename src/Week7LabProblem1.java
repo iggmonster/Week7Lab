@@ -6,6 +6,12 @@ import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 import javafx.scene.shape.Rectangle;
 
+/*
+CS1131
+Lab Section: L01
+@author Keiffer Button
+ */
+
 public class Week7LabProblem1 extends Application {
     public void start(Stage stage) {
 

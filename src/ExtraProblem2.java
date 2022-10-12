@@ -6,6 +6,12 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 import javafx.scene.transform.Rotate;
 
+/*
+CS1131
+Lab Section: L01
+@author Keiffer Button
+ */
+
 public class ExtraProblem2 extends Application {
     public void start(Stage stage) {
 
