@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec31a052-a9cb-4d14-a67d-dbdb6cf837d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExtraProblem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtraProblem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7Lab.zip" afterDir="false" />
+    <list default="true" id="ec31a052-a9cb-4d14-a67d-dbdb6cf837d7" name="Changes" comment="Extra1 works but not 2">
+      <change afterPath="$PROJECT_DIR$/src/ExtraProblem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtraProblem4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtraProblem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExtraProblem2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExtraProblem2">
-    <configuration name="CircleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircleClass" />
-      <module name="Week7Lab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExtraProblem4">
     <configuration name="ExtraProblem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExtraProblem1" />
       <module name="Week7Lab" />
@@ -70,6 +63,22 @@
     </configuration>
     <configuration name="ExtraProblem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExtraProblem2" />
+      <module name="Week7Lab" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\keiff\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtraProblem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtraProblem3" />
+      <module name="Week7Lab" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\keiff\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtraProblem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtraProblem4" />
       <module name="Week7Lab" />
       <option name="VM_PARAMETERS" value="--module-path C:\Users\keiff\Downloads\openjfx-11.0.2_windows-x64_bin-sdk\javafx-sdk-11.0.2\lib --add-modules=javafx.controls,javafx.fxml" />
       <method v="2">
@@ -94,17 +103,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Week7LabProblem1" />
+      <item itemvalue="Application.ExtraProblem4" />
+      <item itemvalue="Application.ExtraProblem3" />
       <item itemvalue="Application.ExtraProblem2" />
       <item itemvalue="Application.ExtraProblem1" />
-      <item itemvalue="Application.CircleClass" />
       <item itemvalue="Application.Week7LabProblem2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtraProblem4" />
+        <item itemvalue="Application.ExtraProblem3" />
         <item itemvalue="Application.ExtraProblem2" />
         <item itemvalue="Application.Week7LabProblem2" />
         <item itemvalue="Application.ExtraProblem1" />
-        <item itemvalue="Application.CircleClass" />
       </list>
     </recent_temporary>
   </component>
@@ -119,8 +130,16 @@
       <workItem from="1665504140427" duration="528000" />
       <workItem from="1665504683375" duration="5739000" />
       <workItem from="1665511953455" duration="160000" />
-      <workItem from="1665512124208" duration="5634000" />
+      <workItem from="1665512124208" duration="11226000" />
     </task>
+    <task id="LOCAL-00001" summary="Extra1 works but not 2">
+      <created>1665517947364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665517947364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Extra1 works but not 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extra1 works but not 2" />
   </component>
 </project>

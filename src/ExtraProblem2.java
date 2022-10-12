@@ -25,15 +25,16 @@ public class ExtraProblem2 extends Application {
         line2.setStrokeWidth(3);
         root.getChildren().add(line2);
 
-
-        for (int i = 0; i < 3; i++) {
+int l = 50;
+int m = 50;
+        for (int i = 0; i < 30; i++) {
             Rotate rotate = new Rotate();
-            rotate.setAngle(30*i);
-            rotate.setPivotX(500);
-            rotate.setPivotY(500);
+            rotate.setAngle(10*i);
+            rotate.setPivotX(500+l*i);
+            rotate.setPivotY(500-l*i);
 
-            int pos = 250 + 100 * i;
-            int pos2 = 500 - 100 * i;
+            int pos = 250 + m * i;
+            int pos2 = 500 - m * i;
 
             Rectangle rect = new Rectangle(pos, pos, pos2, pos2);
             //rect.setX(500);
